@@ -1,8 +1,8 @@
 # HealthTracker
-##Overview
+## Overview
 The Health Tracker is an iOS mobile application dedicated to aiding users in maintaining and improving their health. With a suite of comprehensive features that allow data input on various health parameters, the app ensures a holistic approach to well-being. Designed with Swift and SwiftUI, the application boasts a user-friendly experience with secure data storage on Firebase.
 
-##Features
+## Features
 Core Features:
 1. Health Data Tracking: Users can record data related to: Water intake, Sleep, Meals, Workouts, And more
 2. Customizable Goals: Set specific goals based on the frequency or quantity of a health activity.
@@ -18,11 +18,11 @@ Stretch Goals:
 6. Integration with iPhone's health data.
 7. Syncing with the iPhone clock for setting sleep-related alarms.
 
-##Technical Stack:
+## Technical Stack:
 Platform: iOS
 Programming Language: Swift
 Framework: SwiftUI
 Backend & Data Storage: Firebase
 
-##Security:
+## Security:
 The application prioritizes user data privacy and security. All sleep data, as with other health metrics, is securely stored on Firebase. Users can trust in the safeguarding of their personal information.

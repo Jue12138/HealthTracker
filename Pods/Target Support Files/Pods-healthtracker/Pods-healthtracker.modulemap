@@ -1,0 +1,6 @@
+framework module Pods_healthtracker {
+  umbrella header "Pods-healthtracker-umbrella.h"
+
+  export *
+  module * { export * }
+}

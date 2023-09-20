@@ -1,9 +1,6 @@
 //
 //  MeView.swift
 //  healthtracker
-//
-//  Created by sharon on 3/30/23.
-//
 
 import SwiftUI
 import UserNotifications

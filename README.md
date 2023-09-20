@@ -26,4 +26,4 @@ Framework: SwiftUI
 Backend & Data Storage: Firebase
 
 ## Security:
-The application prioritizes user data privacy and security. All sleep data, as with other health metrics, is securely stored on Firebase. Users can trust in the safeguarding of their personal information.
+The application prioritizes user data privacy and security. All sleep data are securely stored on Firebase. Users can trust in the safeguarding of their personal information.

@@ -20,10 +20,10 @@ The Health Tracker is an iOS mobile application dedicated to aiding users in mai
 7. Syncing with the iPhone clock for setting sleep-related alarms.
 
 ## Technical Stack:
-Platform: iOS
-Programming Language: Swift
-Framework: SwiftUI
-Backend & Data Storage: Firebase
+1. Platform: iOS
+2. Programming Language: Swift
+3. Framework: SwiftUI
+4. Backend & Data Storage: Firebase
 
 ## Security:
 The application prioritizes user data privacy and security. All sleep data are securely stored on Firebase. Users can trust in the safeguarding of their personal information.
